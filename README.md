@@ -1,1 +1,1 @@
-# qtum-dgp
+# recrypt-dgp
